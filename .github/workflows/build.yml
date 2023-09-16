@@ -134,6 +134,7 @@ jobs:
                   echo "unknown file type: $filename"
                   ;;
               esac
+              rm $filename
             fi
 
             jq -r ".[$i].binPath[] | tostring" <<< "$toolchains" | while read -r bin_path; do
