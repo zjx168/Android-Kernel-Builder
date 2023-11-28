@@ -5,7 +5,7 @@
             "repo": "https://github.com/sonrixmomo/android_kernel_lge_sm8150",
             "branch": "main",
             "device": "alphalm",
-            "defconfig": "vendor/alphaamz_lao_com_defconfig"
+            "defconfig": "vendor/alpha_lao_com_defconfig"
         },
         "withKernelSU": true,
         "toolchains": [
