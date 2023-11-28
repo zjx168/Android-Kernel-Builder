@@ -2,7 +2,7 @@
     {
         "kernelSource": {
             "name": "G820TM",
-            "repo": "https://githubfast.com/sonrixmomo/android_kernel_lge_sm8150",
+            "repo": "https://github.com/sonrixmomo/android_kernel_lge_sm8150",
             "branch": "stock",
             "device": "alphalm",
             "defconfig": "vendor/alpha_lao_com_defconfig"
