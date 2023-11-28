@@ -2,7 +2,7 @@
     {
         "kernelSource": {
             "name": "G820TM",
-            "repo": "https://github.com/sonrixmomo/android_kernel_lge_sm8150",
+            "repo": "https://.com/sonrixmomo/android_kernel_lge_sm8150",
             "branch": "stock",
             "device": "alphalm",
             "defconfig": "vendor/alpha_lao_com_defconfig"
@@ -17,7 +17,7 @@
                 ]
             },
             {
-                "repo": "https://githubfast.com/LineageOS/android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-android-4.9",
+                "repo": "https://github.com/LineageOS/android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-android-4.9",
                 "branch": "lineage-19.1",
                 "name": "gcc64",
                 "binPath": [
@@ -25,7 +25,7 @@
                 ]
             },
             {
-                "repo": "https://githubfast.com/LineageOS/android_prebuilts_gcc_linux-x86_arm_arm-linux-androideabi-4.9",
+                "repo": "https://github.com/LineageOS/android_prebuilts_gcc_linux-x86_arm_arm-linux-androideabi-4.9",
                 "branch": "lineage-19.1",
                 "name": "gcc",
                 "binPath": [
@@ -57,7 +57,7 @@
         "AnyKernel3": {
             "use": true,
             "release": true,
-            "repo": "https://githubfast.com/sonrixmomo/AnyKernel3",
+            "repo": "https://.com/sonrixmomo/AnyKernel3",
             "branch": "master"
         }
     }
